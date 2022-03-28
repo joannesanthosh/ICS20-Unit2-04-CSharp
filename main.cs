@@ -5,8 +5,7 @@
 
 using System;
 
-class Program 
-{
+class Program {
     public static void Main(string[] args)
     {
         Console.WriteLine("This program finds the area of a triangle");
